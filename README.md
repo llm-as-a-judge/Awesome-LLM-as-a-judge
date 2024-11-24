@@ -52,9 +52,9 @@ If our survey is useful for your research, please kindly cite our [paper]():
 -->
 
 
-### Attributes
+### 1.Attributes
 
-<h4>Helpfulness</h4>
+### 1.1 Helpfulness
 
 - <u>RLAIF</u>: **"RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback"**. *Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, Sushant Prakash* ICML 2024. [[Paper](https://arxiv.org/abs/2309.00267)] 
 - <u>MT-Bench</u>:**Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena** *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica.* NeurIPS 2023 . [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html) [[Huggingface]](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard)
