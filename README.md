@@ -1,10 +1,10 @@
-# Awesome-LLM-judge Survey
+# Awesome-LLM-as-a-judge Survey
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/PaperNumber-141-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
-## Awesome-LLM-judge: A Survey
-This repo include the papers discussed in our latest survey paper on Awesome-LLM-judge.    
+## Awesome-LLM-as-a-judge: A Survey
+This repo include the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.    
 :book: Read the full paper here: [Paper Link]()
 
 ## Reference
@@ -18,9 +18,9 @@ If our survey is useful for your research, please kindly cite our [paper]():
 }
 ```
 
-## Overview of Awesome-LLM-judge:
+## Overview of Awesome-LLM-as-a-judge:
 
-![Overview of Awesome-LLM-judge](images/llmjudge.jpg)
+![Overview of Awesome-LLM-as-a-judge](images/llmjudge.jpg)
 
 
 <!--
