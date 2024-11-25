@@ -4,18 +4,14 @@
 
 
 ## Awesome-LLM-as-a-judge: A Survey
-This repo include the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.    
+This repo include the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.
+:website: Please visit our official websit: [Website](https://llm-as-a-judge.github.io/)
 :book: Read the full paper here: [Paper Link]()
 
 ## Reference
 If our survey is useful for your research, please kindly cite our [paper]():
 ```
-@article{wang2024comprehensive,
-  title={A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness},
-  author={Wang, Fali and Zhang, Zhiwei and Zhang, Xianren and Wu, Zongyu and Mo, Tzuhao and Lu, Qiuhao and Wang, Wanjing and Li, Rui and Xu, Junjie and Tang, Xianfeng and others},
-  journal={arXiv preprint arXiv:2411.03350},
-  year={2024}
-}
+
 ```
 
 ## Overview of Awesome-LLM-as-a-judge:
