@@ -5,7 +5,9 @@
 
 ## Awesome-LLM-as-a-judge: A Survey
 This repo include the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.
-:website: Please visit our official websit: [Website](https://llm-as-a-judge.github.io/)
+
+Our official websit: [Website](https://llm-as-a-judge.github.io/)
+
 :book: Read the full paper here: [Paper Link]()
 
 ## Reference
