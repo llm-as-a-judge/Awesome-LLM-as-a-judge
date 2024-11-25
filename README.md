@@ -52,7 +52,7 @@ If our survey is useful for your research, please kindly cite our [paper]():
 -->
 
 
-### 1.Attributes
+### 1 Attributes
 
 ### 1.1 Helpfulness
 
@@ -144,7 +144,7 @@ Canada* (2024) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29
 - **X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects.** Liu, Minqian , Shen, Ying , Xu, Zhiyang , Cao, Yixin , Cho, Eunah , Kumar, Vaibhav , Ghanadan, Reza , and Huang, Lifu. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)* (2024) [[Paper]](https://arxiv.org/pdf/2311.08788)
 - **CritiqueLLM: Towards an informative critique generation model for evaluation of large language model generation.** Ke, Pei, Wen, Bosi, Feng, Andrew, Liu, Xiao, Lei, Xuanyu, Cheng, Jiale, Wang, Shengyuan, Zeng, Aohan, Dong, Yuxiao, Wang, Hongning, and others. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2024) [[Paper]](https://aclanthology.org/2024.acl-long.704.pdf)
 - **Foundational autoraters: Taming large language models for better automatic evaluation.** Vu, Tu, Krishna, Kalpesh, Alzubi, Salaheddin, Tar, Chris, Faruqui, Manaal, and Sung, Yun-Hsuan. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2407.10817?)
-- 
+ 
 #### Synthetic Feedback
 - **Judgelm: Fine-tuned large language models are scalable judges.** Zhu, Lianghui, Wang, Xinggang, and Wang, Xinlong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.17631)
 - **Meta-rewarding language models: Self-improving alignment with llm-as-a-meta-judge.** Wu, Tianhao, Yuan, Weizhe, Golovneva, Olga, Xu, Jing, Tian, Yuandong, Jiao, Jiantao, Weston, Jason, and Sukhbaatar, Sainbayar. *ArXiv preprint* (2024) [[Paper]](https://www.rivista.ai/wp-content/uploads/2024/10/2407.19594v2.pdf)
@@ -239,7 +239,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **Aligning Large Language Models by On-Policy Self-Judgment.** Lee, Sangkyu, Kim, Sungdong, Yousefpour, Ashkan, Seo, Minjoon, Yoo, Kang Min, and Yu, Youngjae. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2402.11253)
 
 ### 3 Application
-#### 3.1 Evaluation
+### 3.1 Evaluation
 - **Oceangpt: A large language model for ocean science tasks.** Bi, Zhen, Zhang, Ningyu, Xue, Yida, Ou, Yixin, Ji, Daxiong, Zheng, Guozhou, and Chen, Huajun. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.02031)
 - **Lawbench: Benchmarking legal knowledge of large language models.** Fei, Zhiwei, Shen, Xiaoyu, Zhu, Dawei, Zhou, Fengzhe, Han, Zhuo, Zhang, Songyang, Chen, Kai, Shen, Zongwen, and Ge, Jidong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2309.16289)
 - **Sotopia: Interactive evaluation for social intelligence in language agents.** Zhou, Xuhui, Zhu, Hao, Mathur, Leena, Zhang, Ruohong, Yu, Haofei, Qi, Zhengyang, Morency, Louis-Philippe, Bisk, Yonatan, Fried, Daniel, Neubig, Graham, and others. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.11667)
@@ -272,7 +272,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **CodeJudge-Eval: A Benchmark for Evaluating Code Generation.** Zhao, John, and others. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2408.10718)
 - **Prompt-Gaming: A Pilot Study on LLM-Evaluating Agent in a Meaningful Energy Game.** Isaza-Giraldo, Andr{\'e}s, Bala, Paulo, Campos, Pedro F, and Pereira, Lucas. *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (2024) [[Paper]](https://www.alspereira.info/wp-content/uploads/2024/03/CHI-2024.pdf)
 - **HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations.** Wang, Ziyu, Li, Hao, Huang, Di, and Rahmani, Amir M. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2409.19487)
-#### Alignment
+### 3.2 Alignment
 - **Constitutional ai: Harmlessness from ai feedback.** Bai, Yuntao, Kadavath, Saurav, Kundu, Sandipan, Askell, Amanda, Kernion, Jackson, Jones, Andy, Chen, Anna, Goldie, Anna, Mirhoseini, Azalia, McKinnon, Cameron, and others. *ArXiv preprint* (2022) [[Paper]](https://arxiv.org/pdf/2212.08073.pdf?trk=public_post_comment-text)
 - **Rlaif: Scaling reinforcement learning from human feedback with ai feedback.** Lee, Harrison, Phatale, Samrat, Mansoor, Hassan, Mesnard, Thomas, Ferret, Johan, Lu, Kellie, Bishop, Colton, Hall, Ethan, Carbune, Victor, Rastogi, Abhinav, and others. *ArXiv preprint* (2023) [[Paper]](https://openreview.net/pdf?id=AAxIs3D2ZZ)
 - **SALMON: Self-Alignment with Instructable Reward Models.** Sun, Zhiqing, Shen, Yikang, Zhang, Hongxin, Zhou, Qinhong, Chen, Zhenfang, Cox, David Daniel, Yang, Yiming, and Gan, Chuang. *The Twelfth International Conference on Learning Representations* (2024) [[Paper]](https://openreview.net/pdf?id=xJbsmB8UMx)
@@ -291,7 +291,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **Learning Reward for Robot Skills Using Large Language Models via Self-Alignment.** Zeng, Yuwei, Mu, Yao, and Shao, Lin. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2405.07162)
 - **i-SRT: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective Judgment.** Ahn, Daechul, Choi, Yura, Kim, San, Yu, Youngjae, Kang, Dongyeop, and Choi, Jonghyun. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2406.11280)
 - **CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences.** Weyssow, Martin, Kamanda, Aton, and Sahraoui, Houari. *arXiv preprint arXiv:2403.09032* (2024) [[Paper]](https://arxiv.org/pdf/2403.09032)
-#### 3.2 Retrieval
+### 3.3 Retrieval
 - **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents.** Sun, Weiwei , Yan, Lingyong , Ma, Xinyu , Wang, Shuaiqiang , Ren, Pengjie , Chen, Zhumin , Yin, Dawei , and Ren, Zhaochun. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023) [[Paper]](https://arxiv.org/pdf/2304.09542)
 - **Large language models can accurately predict searcher preferences, 2023.** Thomas, Paul, Spielman, Seth, Craswell, Nick, and Mitra, Bhaskar. *ArXiv preprint* (2023) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657707)
 - **Zero-shot listwise document reranking with a large language model.** Ma, Xueguang, Zhang, Xinyu, Pradeep, Ronak, and Lin, Jimmy. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2305.02156)
@@ -311,7 +311,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **A setwise approach for effective and highly efficient zero-shot ranking with large language models.** Zhuang, Shengyao, Zhuang, Honglei, Koopman, Bevan, and Zuccon, Guido. *Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval* (2024) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657813)
 - **LLMs are Biased Evaluators But Not Biased for Retrieval Augmented Generation.** Chen, Yen-Shan, Jin, Jing, Kuo, Peng-Ting, Huang, Chao-Wei, and Chen, Yun-Nung. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.20833)
 
-#### 3.3 Reasoning
+### 3.4 Reasoning
 - **ReAct: Synergizing Reasoning and Acting in Language Models.** Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik R. Narasimhan, and Yuan Cao. *The Eleventh International Conference on Learning Representations,
 {ICLR} 2023, Kigali, Rwanda, May 1-5, 2023* (2023) [[Paper]](https://arxiv.org/pdf/2210.03629)
 - **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning.** Antonia Creswell, Murray Shanahan, and Irina Higgins. *The Eleventh International Conference on Learning Representations,
