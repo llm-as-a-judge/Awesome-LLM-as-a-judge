@@ -20,7 +20,7 @@ If our survey is useful for your research, please kindly cite our [paper]():
 
 ## Overview of Awesome-LLM-judge:
 
-![Overview of Awesome-LLM-judge](images/llmjudge.png)
+![Overview of Awesome-LLM-judge](images/llmjudge.pdf)
 
 
 <!--
