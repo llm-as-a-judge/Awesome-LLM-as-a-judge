@@ -11,7 +11,7 @@ Our official websit: [Website](https://llm-as-a-judge.github.io/)
 :book: Read the full paper here: [Paper Link](https://arxiv.org/abs/2411.16594)
 
 ## Reference
-If our survey is useful for your research, please kindly cite our [paper]():
+If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
 ```
 @misc{li2024generationjudgmentopportunitieschallenges,
       title={From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge}, 
