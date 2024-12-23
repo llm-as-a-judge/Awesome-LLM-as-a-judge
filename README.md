@@ -10,6 +10,9 @@ Our official websit: [Website](https://llm-as-a-judge.github.io/)
 
 :book: Read the full paper here: [Paper Link](https://arxiv.org/abs/2411.16594)
 
+## 🔔 News
+- **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!
+
 ## Reference
 If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
 ```
@@ -53,6 +56,97 @@ If our survey is useful for your research, please kindly cite our [paper](https:
       - [Memory Efficiency Optimization](#memory-efficiency-optimization)
       - [Runtime Efficiency Optimization](#runtime-efficiency-optimization)
 -->
+
+## Update
+
+### 12/2024
+
+- **Engineering AI Judge Systems** Jiahuei Lin (Justina), Dayi Lin, Sky Zhang, Ahmed E. Hassan. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2411.17793)
+
+- **LMUnit: Fine-grained Evaluation with Natural Language Unit Tests** Jon Saad-Falcon, Rajan Vivek, William Berrios, Nandita Shankar Naik, Matija Franklin, Bertie Vidgen, Amanpreet Singh, Douwe Kiela, Shikib Mehri. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.13091)
+
+- **ACE-M3: Automatic Capability Evaluator for Multimodal Medical Models** Xiechi Zhang, Shunfan Zheng, Linlin Wang, Gerard de Melo, Zhu Cao, Xiaoling Wang, Liang He. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.11453)
+
+- **IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering** Ruosen Li, Ruochen Li, Barry Wang, Xinya Du. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2408.13545)
+
+- **StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving** Chang Gao, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2311.08803)
+
+- **ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation** Jingnan Zheng, Han Wang, An Zhang, Tai D. Nguyen, Jun Sun, Tat-Seng Chua. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2405.14125)
+
+- **On scalable oversight with weak LLMs judging strong LLMs** Zachary Kenton, Noah Y. Siegel, János Kramár, Jonah Brown-Cohen, Samuel Albanie, Jannis Bulian, Rishabh Agarwal, David Lindner, Yunhao Tang, Noah D. Goodman, Rohin Shah. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2407.04622)
+
+- **Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision** Zhiqing Sun, Longhui Yu, Yikang Shen, Weiyang Liu, Yiming Yang, Sean Welleck, Chuang Gan. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2403.09472)
+
+- **CriticEval: Evaluating Large Language Model as Critic** Tian Lan, Wenwei Zhang, Chen Xu, Heyan Huang, Dahua Lin, Kai Chen, Xian-ling Mao. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2402.13764)
+
+- **Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare** Hanwei Zhu, Haoning Wu, Yixuan Li, Zicheng Zhang, Baoliang Chen, Lingyu Zhu, Yuming Fang, Guangtao Zhai, Weisi Lin, Shiqi Wang. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2405.19298)
+
+- **Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning** Kepu Zhang, Haoyue Yang, Xu Tang, Weijie Yu, Jun Xu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.14588)
+
+- **Let your LLM generate a few tokens and you will reduce the need for retrieval** Hervé Déjean. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.11536)
+
+- **Can You Trust LLM Judgments? Reliability of LLM-as-a-Judge** Kayla Schroeder, Zach Wood-Doughty. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.12509)
+
+- **Using LLM-Generated Draft Replies to Support Human Experts in Responding to Stakeholder Inquiries in Maritime Industry: A Real-World Case Study of Industrial AI** Tita Alissa Bach, Aleksandar Babic, Narae Park, Tor Sporsem, Rasmus Ulfsnes, Henrik Smith-Meyer, Torkel Skeie. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.12732)
+
+- **An Exploratory Study of ML Sketches and Visual Code Assistants** Luís F. Gomes, Vincent J. Hellendoorn, Jonathan Aldrich, Rui Abreu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.13386)
+
+- **Steering Large Language Models to Evaluate and Amplify Creativity** Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck, Shao-yen Tseng, Vasudev Lal. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.06060)
+
+- **Optimizing Alignment with Less: Leveraging Data Augmentation for Personalized Evaluation** Javad Seraj, Mohammad Mahdi Mohajeri, Mohammad Javad Dousti, Majid Nili Ahmadabadi. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.07429)
+
+- **Exploring Large Language Models on Cross-Cultural Values in Connection with Training Methodology** Minsang Kim, Seungjun Baek. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.08846)
+
+- **GLIDER: Grading LLM Interactions and Decisions using Explainable Ranking** Darshan Deshpande, Selvan Sunitha Ravi, Sky CH-Wang, Bartosz Mielczarek, Anand Kannappan, Rebecca Qian. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.14140)
+
+- **CharacterBench: Benchmarking Character Customization of Large Language Models** Jinfeng Zhou, Yongkang Huang, Bosi Wen, Guanqun Bi, Yuxuan Chen, Pei Ke, Zhuang Chen, Xiyao Xiao, Libiao Peng, Kuntian Tang, Rongsheng Zhang, Le Zhang, Tangjie Lv, Zhipeng Hu, Hongning Wang, Minlie Huang. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.11912)
+
+- **LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks** Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, Xiaozhi Wang, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.15204)
+
+- **JudgeBlender: Ensembling Judgments for Automatic Relevance Assessment** Hossein A. Rahmani, Emine Yilmaz, Nick Craswell, Bhaskar Mitra. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.13268)
+
+- **Assessing the Impact of Conspiracy Theories Using Large Language Models** Bohan Jiang, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.07019)
+
+- **Outcome-Refining Process Supervision for Code Generation** Zhuohao Yu, Weizheng Gu, Yidong Wang, Zhengran Zeng, Jindong Wang, Wei Ye, Shikun Zhang. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.15118)
+
+- **RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment** Zhuoran Jin, Hongbang Yuan, Tianyi Men, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.13746)
+
+- **JuStRank: Benchmarking LLM Judges for System Ranking** Ariel Gera, Odellia Boni, Yotam Perlitz, Roy Bar-Haim, Lilach Eden, Asaf Yehudai. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.09569)
+
+- **INDICT: Code Generation with Internal Dialogues of Critiques for Both Security and Helpfulness** Hung Le, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Doyen Sahoo. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2407.02518)
+
+- **LLM Evaluators Recognize and Favor Their Own Generations** Arjun Panickssery, Samuel R. Bowman, Shi Feng. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2404.13076)
+
+- **Training Language Models to Critique With Multi-agent Feedback** Tian Lan, Wenwei Zhang, Chengqi Lyu, Shuaibin Li, Chen Xu, Heyan Huang, Dahua Lin, Xian-Ling Mao, Kai Chen. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.15287)
+
+- **Beyond Exact Match: Semantically Reassessing Event Extraction by Large Language Models** Yi-Fan Lu, Xian-Ling Mao, Tian Lan, Chen Xu, Heyan Huang. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.09418)
+
+- **Automatic Evaluation for Text-to-image Generation: Task-decomposed Framework, Distilled Training, and Meta-evaluation Benchmark** Rong-Cheng Tu, Zi-Ao Ma, Tian Lan, Yuehao Zhao, Heyan Huang, Xian-Ling Mao. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2411.15488)
+
+- **Multi-modal Retrieval Augmented Multi-modal Generation: A Benchmark, Evaluate Metrics and Strong Baselines** Zi-Ao Ma, Tian Lan, Rong-Cheng Tu, Yong Hu, Heyan Huang, Xian-Ling Mao. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2411.16365)
+
+- **LLM-AS-AN-INTERVIEWER: Beyond Static Testing Through Dynamic LLM Evaluation** Eunsu Kim, Juyoung Suk, Seungone Kim, Niklas Muennighoff, Dongkwan Kim, Alice Oh. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.10424)
+
+- **MAG-V: A Multi-Agent Framework for Synthetic Data Generation and Verification** Saptarshi Sengupta, Kristal Curtis, Akshay Mallipeddi, Abhinav Mathur, Joseph Ross, Liang Gou. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.04494)
+
+- **Law of the Weakest Link: Cross Capabilities of Large Language Models** Ming Zhong, Aston Zhang, Xuewei Wang, Rui Hou, Wenhan Xiong, Chenguang Zhu, Zhengxing Chen, Liang Tan, Chloe Bi, Mike Lewis, Sravya Popuri, Sharan Narang, Melanie Kambadur, Dhruv Mahajan, Sergey Edunov, Jiawei Han, Laurens van der Maaten. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2409.19951)
+
+- **MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback** Zonghai Yao, Aditya Parashar, Huixue Zhou, Won Seok Jang, Feiyun Ouyang, Zhichao Yang, Hong Yu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.13191)
+
+- **ALMA: Alignment with Minimal Annotation** Michihiro Yasunaga, Leonid Shamis, Chunting Zhou, Andrew Cohen, Jason Weston, Luke Zettlemoyer, Marjan Ghazvininejad. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.04305)
+
+- **ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges** Kaustubh D. Dhole, Kai Shu, Eugene Agichtein. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.05206)
+
+- **Evaluating and Aligning CodeLLMs on Human Preference** Jian Yang, Jiaxi Yang, Ke Jin, Yibo Miao, Lei Zhang, Liqun Yang, Zeyu Cui, Yichang Zhang, Binyuan Hui, Junyang Lin. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.05210)
+
+- **Benchmarking LLMs' Judgments with No Gold Standard** Shengwei Xu, Yuxuan Lu, Grant Schoenebeck, Yuqing Kong. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2411.07127)
+
+- **The Vulnerability of Language Model Benchmarks: Do They Accurately Reflect True LLM Performance?** Sourav Banerjee, Ayushi Agarwal, Eishkaran Singh. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.03597)
+
+- **Breaking Event Rumor Detection via Stance-Separated Multi-Agent Debate** Mingqing Zhang, Haisong Gong, Qiang Liu, Shu Wu, Liang Wang. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.04859)
+
+- **Can Large Language Models Serve as Evaluators for Code Summarization?** Yang Wu, Yao Wan, Zhaoyang Chu, Wenting Zhao, Ye Liu, Hongyu Zhang, Xuanhua Shi, Philip S. Yu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2412.01333)
+
 
 
 ### 1 Attributes
