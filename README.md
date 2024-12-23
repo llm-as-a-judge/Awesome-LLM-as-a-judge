@@ -11,7 +11,7 @@ Our official websit: [Website](https://llm-as-a-judge.github.io/)
 :book: Read the full paper here: [Paper Link](https://arxiv.org/abs/2411.16594)
 
 ## 🔔 News
-- **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!
+- **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!**
 
 ## Reference
 If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
