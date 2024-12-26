@@ -13,6 +13,7 @@ Our official websit: [Website](https://llm-as-a-judge.github.io/)
 ## 🔔 News
 - **`2024-12` Also check our paper list and survey on [LLM-based data annotation and synthesis](https://github.com/Zhen-Tan-dmml/LLM4Annotation)!**
 - **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!**
+- - **`2024-12` We update the slides, talk and report of our paper, check them in our [Website](https://llm-as-a-judge.github.io/)!**
 
 ## Reference
 If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
