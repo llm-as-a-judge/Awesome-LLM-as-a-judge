@@ -33,8 +33,41 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 
 ## Table of Content (ToC)
-
-[TOC]
+- [Awesome-LLM-as-a-judge Survey](#awesome-llm-as-a-judge-survey)
+  - [Awesome-LLM-as-a-judge: A Survey](#awesome-llm-as-a-judge-a-survey)
+  - [🔔 News](#-news)
+  - [Reference](#reference)
+  - [Overview of Awesome-LLM-as-a-judge:](#overview-of-awesome-llm-as-a-judge)
+  - [Table of Content (ToC)](#table-of-content-toc)
+  - [Update](#update)
+    - [12/2024](#122024)
+  - [1 Attributes](#1-attributes)
+    - [1.1 Helpfulness](#11-helpfulness)
+    - [1.2 Harmlessness](#12-harmlessness)
+    - [1.3 Reliability](#13-reliability)
+    - [1.4 Relevance](#14-relevance)
+    - [1.5 Feasibility](#15-feasibility)
+    - [1.6 Overall Quality](#16-overall-quality)
+  - [2 Methodology](#2-methodology)
+    - [2.1 Tuning](#21-tuning)
+      - [Data Source](#data-source)
+      - [Manually-labeled](#manually-labeled)
+      - [Synthetic Feedback](#synthetic-feedback)
+      - [Tuning Techiniques](#tuning-techiniques)
+      - [Supervised Fine-Tuning](#supervised-fine-tuning)
+      - [Preference Learning](#preference-learning)
+    - [2.2 Prompting](#22-prompting)
+      - [Swapping Operation](#swapping-operation)
+      - [Rule Augmentation](#rule-augmentation)
+        - [Multi-Agent Collaboration](#multi-agent-collaboration)
+      - [Demonstration](#demonstration)
+      - [Multi-Turn Interaction](#multi-turn-interaction)
+      - [Comparison Acceleration](#comparison-acceleration)
+  - [3 Application](#3-application)
+    - [3.1 Evaluation](#31-evaluation)
+    - [3.2 Alignment](#32-alignment)
+    - [3.3 Retrieval](#33-retrieval)
+    - [3.4 Reasoning](#34-reasoning)
 
 
 
