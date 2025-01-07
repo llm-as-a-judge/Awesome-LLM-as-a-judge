@@ -320,7 +320,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **What do Large Language Models Need for Machine Translation Evaluation?.** Qian, Shenbin, Sindhujan, Archchana, Kabra, Minnie, Kanojia, Diptesh, Ora{\v{s}}an, Constantin, Ranasinghe, Tharindu, and Blain, Fred. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (2024) [[Paper]](https://arxiv.org/pdf/2410.03278)
 - **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References.** Zhang, Qiyuan, Wang, Yufei, Yu, Tiezheng, Jiang, Yuxin, Wu, Chuhan, Li, Liangyou, Wang, Yasheng, Jiang, Xin, Shang, Lifeng, Tang, Ruiming, and others. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.05193?)
 - **Can LLM be a Personalized Judge?.** Dong, Yijiang River, Hu, Tiancheng, and Collier, Nigel. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2406.11657)
-#####  Multi-Agent Collaboration
+####  Multi-Agent Collaboration
 - **Prd: Peer rank and discussion improve large language model based evaluations.** Li, Ruosen, Patel, Teerth, and Du, Xinya. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2307.02762)
 - **Wider and deeper llm networks are fairer llm evaluators.** Zhang, Xinghua, Yu, Bowen, Yu, Haiyang, Lv, Yangyu, Liu, Tingwen, Huang, Fei, Xu, Hongbo, and Li, Yongbin. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2308.01862)
 - **Large language models are diverse role-players for summarization evaluation.** Wu, Ning, Gong, Ming, Shou, Linjun, Liang, Shining, and Jiang, Daxin. *CCF International Conference on Natural Language Processing and Chinese Computing* (2023) [[Paper]](https://arxiv.org/pdf/2303.15078)
