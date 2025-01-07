@@ -31,33 +31,13 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ![Overview of Awesome-LLM-as-a-judge](images/llmjudge.jpg)
 
 
-<!--
-## Table of Contents
 
-- [SLM Survey](#slm-survey)
-  - [Table of Contents](#table-of-contents)
-  - [Overview of SLMs](#overview-of-slms)
-  - [Timeline of SLMs](#timeline-of-slms)
-  - [SLMs Paper List](#slms-paper-list)
-    - [Existing SLMs](#existing-slms)
-    - [Foundational Concepts in Building Language Models](#foundational-concepts-in-building-language-models)
-    - [Advanced enhancement methods for SLM](#advanced-enhancement-methods-for-slm)
-      - [Training from scratch](#training-from-scratch)
-      - [Supervised fine-tuning](#supervised-fine-tuning)
-      - [Data quality in KD](#data-quality-in-kd)
-      - [Distillation for SLM](#distillation-for-slm)
-      - [Quantization](#quantization)
-      - [LLMs for SLM](#llms-for-slm)
-    - [Task-specific SLM Applications](#task-specific-slm-applications)
-      - [SLM in QA](#slm-in-qa)
-      - [SLM in Coding](#slm-in-coding)
-      - [SLM in Recommendation](#slm-in-recommendation)
-      - [SLM in Web Search](#slm-in-web-search)
-      - [SLM in Mobile-device](#slm-in-mobile-device)
-    - [On-device Deployment Optimization Techniques](#on-device-deployment-optimization-techniques) 
-      - [Memory Efficiency Optimization](#memory-efficiency-optimization)
-      - [Runtime Efficiency Optimization](#runtime-efficiency-optimization)
--->
+## Table of Content (ToC)
+
+[TOC]
+
+
+
 
 ## Update
 
@@ -151,7 +131,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 
 
-### 1 Attributes
+## 1 Attributes
 
 ### 1.1 Helpfulness
 
@@ -233,7 +213,7 @@ in Artificial Intelligence, {EAAI} 2014, February 20-27, 2024, Vancouver,
 Canada* (2024) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29923/31613)
 - **Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation.** Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, and Shujian Huang. *Annual Meeting of the Association for Computational Linguistics* (2024) [[Paper]](https://arxiv.org/pdf/2401.06568)
 
-### 2 Methodology
+## 2 Methodology
 ### 2.1 Tuning
 #### Data Source
 #### Manually-labeled
@@ -337,7 +317,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **Starling-7b: Improving helpfulness and harmlessness with rlaif.** Zhu, Banghua, Frick, Evan, Wu, Tianhao, Zhu, Hanlin, Ganesan, Karthik, Chiang, Wei-Lin, Zhang, Jian, and Jiao, Jiantao. *First Conference on Language Modeling* (2024) [[Paper]](https://openreview.net/pdf?id=GqDntYTTbk)
 - **Aligning Large Language Models by On-Policy Self-Judgment.** Lee, Sangkyu, Kim, Sungdong, Yousefpour, Ashkan, Seo, Minjoon, Yoo, Kang Min, and Yu, Youngjae. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2402.11253)
 
-### 3 Application
+## 3 Application
 ### 3.1 Evaluation
 - **Oceangpt: A large language model for ocean science tasks.** Bi, Zhen, Zhang, Ningyu, Xue, Yida, Ou, Yixin, Ji, Daxiong, Zheng, Guozhou, and Chen, Huajun. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.02031)
 - **Lawbench: Benchmarking legal knowledge of large language models.** Fei, Zhiwei, Shen, Xiaoyu, Zhu, Dawei, Zhou, Fengzhe, Han, Zhuo, Zhang, Songyang, Chen, Kai, Shen, Zongwen, and Ge, Jidong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2309.16289)
