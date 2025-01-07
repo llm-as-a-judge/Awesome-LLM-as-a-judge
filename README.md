@@ -59,7 +59,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
     - [2.2 Prompting](#22-prompting)
       - [Swapping Operation](#swapping-operation)
       - [Rule Augmentation](#rule-augmentation)
-        - [Multi-Agent Collaboration](#multi-agent-collaboration)
+      - [Multi-Agent Collaboration](#multi-agent-collaboration)
       - [Demonstration](#demonstration)
       - [Multi-Turn Interaction](#multi-turn-interaction)
       - [Comparison Acceleration](#comparison-acceleration)
