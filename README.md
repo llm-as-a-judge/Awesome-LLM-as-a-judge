@@ -32,33 +32,46 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 ![Overview of Awesome-LLM-as-a-judge](images/llmjudge.jpg)
 
 
-<!--
-## Table of Contents
 
-- [SLM Survey](#slm-survey)
-  - [Table of Contents](#table-of-contents)
-  - [Overview of SLMs](#overview-of-slms)
-  - [Timeline of SLMs](#timeline-of-slms)
-  - [SLMs Paper List](#slms-paper-list)
-    - [Existing SLMs](#existing-slms)
-    - [Foundational Concepts in Building Language Models](#foundational-concepts-in-building-language-models)
-    - [Advanced enhancement methods for SLM](#advanced-enhancement-methods-for-slm)
-      - [Training from scratch](#training-from-scratch)
-      - [Supervised fine-tuning](#supervised-fine-tuning)
-      - [Data quality in KD](#data-quality-in-kd)
-      - [Distillation for SLM](#distillation-for-slm)
-      - [Quantization](#quantization)
-      - [LLMs for SLM](#llms-for-slm)
-    - [Task-specific SLM Applications](#task-specific-slm-applications)
-      - [SLM in QA](#slm-in-qa)
-      - [SLM in Coding](#slm-in-coding)
-      - [SLM in Recommendation](#slm-in-recommendation)
-      - [SLM in Web Search](#slm-in-web-search)
-      - [SLM in Mobile-device](#slm-in-mobile-device)
-    - [On-device Deployment Optimization Techniques](#on-device-deployment-optimization-techniques) 
-      - [Memory Efficiency Optimization](#memory-efficiency-optimization)
-      - [Runtime Efficiency Optimization](#runtime-efficiency-optimization)
--->
+## Table of Content (ToC)
+- [Awesome-LLM-as-a-judge Survey](#awesome-llm-as-a-judge-survey)
+  - [Awesome-LLM-as-a-judge: A Survey](#awesome-llm-as-a-judge-a-survey)
+  - [🔔 News](#-news)
+  - [Reference](#reference)
+  - [Overview of Awesome-LLM-as-a-judge:](#overview-of-awesome-llm-as-a-judge)
+  - [Table of Content (ToC)](#table-of-content-toc)
+  - [Update](#update)
+    - [12/2024](#122024)
+  - [1 Attributes](#1-attributes)
+    - [1.1 Helpfulness](#11-helpfulness)
+    - [1.2 Harmlessness](#12-harmlessness)
+    - [1.3 Reliability](#13-reliability)
+    - [1.4 Relevance](#14-relevance)
+    - [1.5 Feasibility](#15-feasibility)
+    - [1.6 Overall Quality](#16-overall-quality)
+  - [2 Methodology](#2-methodology)
+    - [2.1 Tuning](#21-tuning)
+      - [Data Source](#data-source)
+      - [Manually-labeled](#manually-labeled)
+      - [Synthetic Feedback](#synthetic-feedback)
+      - [Tuning Techiniques](#tuning-techiniques)
+      - [Supervised Fine-Tuning](#supervised-fine-tuning)
+      - [Preference Learning](#preference-learning)
+    - [2.2 Prompting](#22-prompting)
+      - [Swapping Operation](#swapping-operation)
+      - [Rule Augmentation](#rule-augmentation)
+      - [Multi-Agent Collaboration](#multi-agent-collaboration)
+      - [Demonstration](#demonstration)
+      - [Multi-Turn Interaction](#multi-turn-interaction)
+      - [Comparison Acceleration](#comparison-acceleration)
+  - [3 Application](#3-application)
+    - [3.1 Evaluation](#31-evaluation)
+    - [3.2 Alignment](#32-alignment)
+    - [3.3 Retrieval](#33-retrieval)
+    - [3.4 Reasoning](#34-reasoning)
+
+
+
 
 ## Update
 
@@ -152,7 +165,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 
 
-### 1 Attributes
+## 1 Attributes
 
 ### 1.1 Helpfulness
 
@@ -234,7 +247,7 @@ in Artificial Intelligence, {EAAI} 2014, February 20-27, 2024, Vancouver,
 Canada* (2024) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/29923/31613)
 - **Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation.** Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, and Shujian Huang. *Annual Meeting of the Association for Computational Linguistics* (2024) [[Paper]](https://arxiv.org/pdf/2401.06568)
 
-### 2 Methodology
+## 2 Methodology
 ### 2.1 Tuning
 #### Data Source
 #### Manually-labeled
@@ -308,7 +321,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **What do Large Language Models Need for Machine Translation Evaluation?.** Qian, Shenbin, Sindhujan, Archchana, Kabra, Minnie, Kanojia, Diptesh, Ora{\v{s}}an, Constantin, Ranasinghe, Tharindu, and Blain, Fred. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (2024) [[Paper]](https://arxiv.org/pdf/2410.03278)
 - **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References.** Zhang, Qiyuan, Wang, Yufei, Yu, Tiezheng, Jiang, Yuxin, Wu, Chuhan, Li, Liangyou, Wang, Yasheng, Jiang, Xin, Shang, Lifeng, Tang, Ruiming, and others. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2410.05193?)
 - **Can LLM be a Personalized Judge?.** Dong, Yijiang River, Hu, Tiancheng, and Collier, Nigel. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2406.11657)
-#####  Multi-Agent Collaboration
+####  Multi-Agent Collaboration
 - **Prd: Peer rank and discussion improve large language model based evaluations.** Li, Ruosen, Patel, Teerth, and Du, Xinya. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2307.02762)
 - **Wider and deeper llm networks are fairer llm evaluators.** Zhang, Xinghua, Yu, Bowen, Yu, Haiyang, Lv, Yangyu, Liu, Tingwen, Huang, Fei, Xu, Hongbo, and Li, Yongbin. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2308.01862)
 - **Large language models are diverse role-players for summarization evaluation.** Wu, Ning, Gong, Ming, Shou, Linjun, Liang, Shining, and Jiang, Daxin. *CCF International Conference on Natural Language Processing and Chinese Computing* (2023) [[Paper]](https://arxiv.org/pdf/2303.15078)
@@ -338,7 +351,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 - **Starling-7b: Improving helpfulness and harmlessness with rlaif.** Zhu, Banghua, Frick, Evan, Wu, Tianhao, Zhu, Hanlin, Ganesan, Karthik, Chiang, Wei-Lin, Zhang, Jian, and Jiao, Jiantao. *First Conference on Language Modeling* (2024) [[Paper]](https://openreview.net/pdf?id=GqDntYTTbk)
 - **Aligning Large Language Models by On-Policy Self-Judgment.** Lee, Sangkyu, Kim, Sungdong, Yousefpour, Ashkan, Seo, Minjoon, Yoo, Kang Min, and Yu, Youngjae. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2402.11253)
 
-### 3 Application
+## 3 Application
 ### 3.1 Evaluation
 - **Oceangpt: A large language model for ocean science tasks.** Bi, Zhen, Zhang, Ningyu, Xue, Yida, Ou, Yixin, Ji, Daxiong, Zheng, Guozhou, and Chen, Huajun. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.02031)
 - **Lawbench: Benchmarking legal knowledge of large language models.** Fei, Zhiwei, Shen, Xiaoyu, Zhu, Dawei, Zhou, Fengzhe, Han, Zhuo, Zhang, Songyang, Chen, Kai, Shen, Zongwen, and Ge, Jidong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2309.16289)
