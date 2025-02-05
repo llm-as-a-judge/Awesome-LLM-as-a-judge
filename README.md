@@ -130,7 +130,16 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **LLM Cyber Evaluations Don't Capture Real-World Risk**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.00072)
 - **GPT-4o as the Gold Standard: A Scalable and General Purpose Approach to Filter Language Model Pretraining Data**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.02755)
 - **Large Language Models' Accuracy in Emulating Human Experts' Evaluation of Public Sentiments about Heated Tobacco Products on Social Media**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01658)
-- **Dr. SoW: Density Ratio of Strong-over-weak LLMs for Reducing the Cost of Human Annotation in Preference Tuning**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.02481)
+- **E2CL: Exploration-based Error Correction Learning for Embodied Agents**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2409.03256)
+- **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2403.16950)
+- **Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2406.11370)
+- **Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.02205)
+- **Visual Large Language Models for Generalized and Specialized Applications**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.02765)
+- **TalBot: An LLM-based robot assisted language learning system for children with language vulnerabilities**. *ArXiv preprint* (2025) [[Paper]](https://research.abo.fi/ws/portalfiles/portal/65441119/preprint.pdf)
+- **TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.07482)
+- **Solving the Unsolvable: Translating Case Law in Hong Kong**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.09444)
+- **Atla Selene Mini: A General Purpose Evaluation Model**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17195)
+- **M-MAD: Multidimensional Multi-Agent Debate Framework for Fine-grained Machine Translation Evaluation**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.20127)
 
 
 ### 12/2024
