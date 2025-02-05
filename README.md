@@ -11,6 +11,7 @@ Our official websit: [Website](https://llm-as-a-judge.github.io/)
 :book: Read the full paper here: [Paper Link](https://arxiv.org/abs/2411.16594)
 
 ## 🔔 News
+- **`2025-2` We update our paper list and include papers of LLM-as-a-judge in January 2025!**
 - **`2025-2` Check our new paper about [preference leakage](https://arxiv.org/abs/2502.01534) in LLM-as-a-judge!**
 - **`2024-12` Also check our paper list and survey on [LLM-based data annotation and synthesis](https://github.com/Zhen-Tan-dmml/LLM4Annotation)!**
 - **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!**
@@ -41,6 +42,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
   - [Overview of Awesome-LLM-as-a-judge:](#overview-of-awesome-llm-as-a-judge)
   - [Table of Content (ToC)](#table-of-content-toc)
   - [Update](#update)
+    - [01/2025](#012025)
     - [12/2024](#122024)
   - [1 Attributes](#1-attributes)
     - [1.1 Helpfulness](#11-helpfulness)
@@ -74,6 +76,62 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 
 ## Update
+
+### 01/2025
+
+- **CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.03447)
+- **MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.03468)
+- **SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.03675)
+- **EpiCoder: Encompassing Diversity and Complexity in Code Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.04694)
+- **Leveraging Large Language Models for Zero-shot Lay Summarisation in Biomedicine and Beyond**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.05224)
+- **Measuring the Robustness of Reference-Free Dialogue Evaluation Systems**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.06728)
+- **The Lessons of Developing Process Reward Models in Mathematical Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.07301)
+- **U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills in LLMs**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.03205)
+- **Agent-as-Judge for Factual Summarization of Long Narratives**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.09993)
+- **The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.10970)
+- **The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.13952)
+- **Potential and Perils of Large Language Models as Judges of Unstructured Textual Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.08167)
+- **Early evidence of how LLMs outperform traditional systems on OCR/HTR tasks for historical records**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11623)
+- **Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.16086)
+- **Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.13080)
+- **SedarEval: Automated Evaluation using Self-Adaptive Rubrics**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.15595)
+- **Beyond correlation: The Impact of Human Uncertainty in Measuring the Effectiveness of Automatic Evaluation and LLM-as-a-Judge**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.03775)
+- **VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.16672)
+- **MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17399)
+- **LLMs can be Fooled into Labelling a Document as Relevant (best cafиж near me; this paper is perfectly relevant)**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17969)
+- **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18099)
+- **GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2409.06595)
+- **Illusions of Relevance: Using Content Injection Attacks to Deceive Retrievers, Rerankers, and LLM Judges**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18536)
+- **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.19309)
+- **Distilling Desired Comments for Enhanced Code Review with Large Language Models**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.20340)
+- **LLMPC: Large Language Model Predictive Control**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.02486)
+- **Can LLMs Design Good Questions Based on Context?**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.03491)
+- **CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.10421)
+- **Can Many-Shot In-Context Learning Help LLMs as Evaluators? A Preliminary Empirical Study**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2406.11629)
+- **Hierarchical Divide-and-Conquer for Fine-Grained Alignment in LLM-Based Medical Evaluation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.06741)
+- **LLM Reading Tea Leaves: Automatically Evaluating Topic Models with Large Language Models**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2406.09008)
+- **Evaluating Mathematical Reasoning Beyond Accuracy**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2404.05692)
+- **PASS: Presentation Automation for Slide Generation and Speech**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.06497)
+- **The Veln(ia)s is in the Details: Evaluating LLM Judgment on Latvian and Lithuanian Short Answer Matching**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.09164)
+- **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2403.16950)
+- **Exploring the Reliability of Large Language Models as Customized Evaluators for Diverse NLP Tasks**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2310.19740)
+- **Synthetic Data Can Mislead Evaluations: Membership Inference as Machine Text Detection**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11786)
+- **Exploring GPT's Ability as a Judge in Music Understanding**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.13261)
+- **AdEval: Alignment-based Dynamic Evaluation to Mitigate Data Contamination in Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.13983)
+- **Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2408.09688)
+- **ExPerT: Effective and Explainable Evaluation of Personalized Long-Form Text Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.14956)
+- **Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.16277)
+- **On A Scale From 1 to 5: Quantifying Hallucination in Faithfulness Evaluation**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.12222)
+- **Audio Large Language Models Can Be Descriptive Speech Quality Evaluators**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17202)
+- **Large Language Model Critics for Execution-Free Evaluation of Code Changes**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.16655)
+- **CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17581)
+- **Generative Information Retrieval Evaluation**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2404.08137)
+- **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18081)
+- **LLM Cyber Evaluations Don't Capture Real-World Risk**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.00072)
+- **GPT-4o as the Gold Standard: A Scalable and General Purpose Approach to Filter Language Model Pretraining Data**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.02755)
+- **Large Language Models' Accuracy in Emulating Human Experts' Evaluation of Public Sentiments about Heated Tobacco Products on Social Media**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01658)
+- **Dr. SoW: Density Ratio of Strong-over-weak LLMs for Reducing the Cost of Human Annotation in Preference Tuning**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.02481)
+
 
 ### 12/2024
 
