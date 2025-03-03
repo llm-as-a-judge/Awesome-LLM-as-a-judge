@@ -83,6 +83,7 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.12468)
 - **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18099)
 - **Verdict: A Library for Scaling Judge-Time Compute**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18018)
+- **AgentRM: Enhancing Agent Generalization with Reward Modeling**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18407)
 
 
 ## Update
