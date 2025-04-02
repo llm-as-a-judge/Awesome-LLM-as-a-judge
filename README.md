@@ -144,6 +144,20 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15778)
 - **F¨´x¨¬: A Benchmark for Evaluating Language Models on Ancient Chinese Text Understanding and Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15837)
 - **VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.21755)
+- **Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17928)
+- **A Multi-Model Adaptation of Speculative Decoding for Classification**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.18076)
+- **Judge Anything: MLLM as a Judge Across Any Modality**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17489)
+- **From Chaos to Order: The Atomic Reasoner Framework for Fine-grained Reasoning in Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15944)
+- **Tuning LLMs by RAG Principles: Towards LLM-native Memory**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16071)
+- **D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.11441)
+- **Towards reasoning era: A survey of long chain-of-thought for reasoning large language models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.09567)
+- **DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.08569)
+- **Exploring Industry Practices and Perspectives on AI Attribution in Co-Creative Use Cases**. *ArXiv preprint* (2025) [[Paper]](https://hai-gen.github.io/2025/papers/P2-HAI-GEN-2025%20He%20and%20Do.pdf)
+- **Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation**. *ArXiv preprint* (2025) [[Paper]](https://zhuohaoyu.github.io/assets/files/orps_icml_preprint.pdf)
+- **Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.05587)
+- **No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.05061)
+- **Graph-augmented reasoning: Evolving step-by-step knowledge graph retrieval for llm reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01642)
+
 
 
 ### 02/2025
