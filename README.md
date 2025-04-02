@@ -1,6 +1,6 @@
 # Awesome-LLM-as-a-judge Survey
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/PaperNumber-141-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/PaperNumber-452-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
 ## Awesome-LLM-as-a-judge: A Survey
