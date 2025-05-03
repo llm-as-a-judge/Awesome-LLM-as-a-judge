@@ -320,6 +320,8 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 ### 12/2024
 
+- **CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2501.00097)
+
 - **Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models** Fan Zhang, Shulin Tian, Ziqi Huang, Yu Qiao, Ziwei Liu. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.09645)
 
 - **Engineering AI Judge Systems** Jiahuei Lin (Justina), Dayi Lin, Sky Zhang, Ahmed E. Hassan. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/pdf/2411.17793)
