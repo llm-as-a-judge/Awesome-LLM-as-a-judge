@@ -88,6 +88,8 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **Verdict: A Library for Scaling Judge-Time Compute**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18018)
 - **AgentRM: Enhancing Agent Generalization with Reward Modeling**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18407)
 - **JudgeLRM: Large Reasoning Models as a Judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.00050)
+- **GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.00891)
+- **Inference-Time Scaling for Generalist Reward Modeling**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.02495)
 - **RM-R1: Reward Modeling as Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.02387)
 - **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.10320)
 
