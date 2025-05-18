@@ -87,6 +87,9 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 - **Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18099)
 - **Verdict: A Library for Scaling Judge-Time Compute**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18018)
 - **AgentRM: Enhancing Agent Generalization with Reward Modeling**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18407)
+- **JudgeLRM: Large Reasoning Models as a Judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.00050)
+- **RM-R1: Reward Modeling as Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.02387)
+- **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.10320)
 
 
 ## Update
