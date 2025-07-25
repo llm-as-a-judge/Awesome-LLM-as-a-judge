@@ -98,6 +98,9 @@ If our survey is useful for your research, please kindly cite our [paper](https:
 
 ## Update
 
+### 07/2025
+- **Checklist Engineering Empowers Multilingual LLM Judges**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/pdf/2507.06774) [[Code]](https://github.com/mghiasvand1/CE-Judge)
+
 ### 04/2025 & 05/2025
 - **Multi-Agent LLM Judge: automatic personalized LLM judge design for evaluating natural language generation applications**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.02867)
 - **Prompt-Reverse Inconsistency: LLM Self-Inconsistency Beyond Generative Randomness and Prompt Paraphrasing**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.01282)
