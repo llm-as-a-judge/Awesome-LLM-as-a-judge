@@ -730,6 +730,8 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 
 ## 3 Application
 ### 3.1 Evaluation
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 - **Oceangpt: A large language model for ocean science tasks.** Bi, Zhen, Zhang, Ningyu, Xue, Yida, Ou, Yixin, Ji, Daxiong, Zheng, Guozhou, and Chen, Huajun. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.02031)
 - **Lawbench: Benchmarking legal knowledge of large language models.** Fei, Zhiwei, Shen, Xiaoyu, Zhu, Dawei, Zhou, Fengzhe, Han, Zhuo, Zhang, Songyang, Chen, Kai, Shen, Zongwen, and Ge, Jidong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2309.16289)
 - **Sotopia: Interactive evaluation for social intelligence in language agents.** Zhou, Xuhui, Zhu, Hao, Mathur, Leena, Zhang, Ruohong, Yu, Haofei, Qi, Zhengyang, Morency, Louis-Philippe, Bisk, Yonatan, Fried, Daniel, Neubig, Graham, and others. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.11667)
@@ -833,4 +835,3 @@ Canada* (2024) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29720/
 - **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning.** Setlur, Amrith, Nagpal, Chirag, Fisch, Adam, Geng, Xinyang, Eisenstein, Jacob, Agarwal, Rishabh, Agarwal, Alekh, Berant, Jonathan, and Kumar, Aviral. *arXiv preprint arXiv:2410.08146* (2024) [[Paper]](https://arxiv.org/pdf/2410.08146?)
 
 <!-- Insertion Template: 0. <u>Model</u>: **"Title"**. *Name et al.*  202X. [[Paper]()] [[Github]()] [[HuggingFace]()] -->
-
