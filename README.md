@@ -731,6 +731,7 @@ LA, USA, December 10 - 16, 2023* (2023) [[Paper]](https://proceedings.neurips.cc
 ## 3 Application
 ### 3.1 Evaluation
 - [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for automated optimization of AI agent workflows with evaluation-driven prompt and config tuning, including LLM-as-judge support.
 
 - **Oceangpt: A large language model for ocean science tasks.** Bi, Zhen, Zhang, Ningyu, Xue, Yida, Ou, Yixin, Ji, Daxiong, Zheng, Guozhou, and Chen, Huajun. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2310.02031)
 - **Lawbench: Benchmarking legal knowledge of large language models.** Fei, Zhiwei, Shen, Xiaoyu, Zhu, Dawei, Zhou, Fengzhe, Han, Zhuo, Zhang, Songyang, Chen, Kai, Shen, Zongwen, and Ge, Jidong. *ArXiv preprint* (2023) [[Paper]](https://arxiv.org/pdf/2309.16289)
